@@ -2,6 +2,18 @@
     src: url("FONTS/attila.ttf");
     font-family: "attila Sans Uniform";
 }
+@font-face{
+    src: url("FONTS/DancingScript-VariableFont_wght.ttf");
+    font-family: "dancing script";
+}
+@font-face{
+    src: url("FONTS/Havelock\ Titling\ Family/havelock.otf");
+    font-family: "havelock titling";
+}
+@font-face{
+    src: url("FONTS/Montserrat/Montserrat-Medium.ttf");
+    font-family: "montserrat";
+}
 *{
     margin: 0;
     padding: 0;
