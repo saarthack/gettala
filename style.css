@@ -1,3 +1,7 @@
+@font-face{
+    src: url("/attila.ttf");
+    font-family: "attila Sans Uniform";
+}
 *{
     margin: 0;
     padding: 0;
